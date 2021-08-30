@@ -1,0 +1,12 @@
+{
+    "Id": "SubnauticaMod",
+    "DisplayName": "My First Subnautica Mod",
+    "Author": "Meeperty",
+    "Version": "1.0.0",
+    "Enable": true,
+    "AssemblyName": "SubnauticaMod.dll",
+    "VersionDependencies": {
+        "SMLHelper": "2.9.6"
+    },
+    "Game": "Subnautica"
+}
